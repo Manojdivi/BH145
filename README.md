@@ -57,3 +57,13 @@ void loop() {
   // Delay for a minute before sending the next data point
   delay(60000);
 }
+
+
+
+
+
+TEAM DETAILS:
+1.NALLAGACHU NAVYA SRI
+2.DIVI MANOJ KUMAR
+3.BOMMIREDDY VENKATA SIVA SHANKAR
+4.B. MANI KANTA
