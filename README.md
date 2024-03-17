@@ -1,5 +1,6 @@
 #include <Wire.h>
-#include "HX711.h"
+#include "HX71<img width="567" alt="Screenshot 2024-03-17 101903" src="https://github.com/Manojdivi/BH145/assets/152006631/43aadae8-f82f-46df-8257-e1c41a4beaca">
+1.h"
 #include <ESP8266WiFi.h>
 #include <ThingSpeak.h>
 
