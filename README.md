@@ -1,7 +1,15 @@
-<img width="190" alt="Screenshot 2024-03-17 101752" src="https://github.com/Manojdivi/BH145/assets/152006631/9555de49-0a76-478d-aef2-8fb8d6f3d445">
-<img width="479" alt="Screenshot 2024-03-17 101720" src="https://github.com/Manojdivi/BH145/assets/152006631/59d15074-6ace-4ce9-9c35-c69e211f5a5a">
-#include "HX71<img width="567" alt="Screenshot 2024-03-17 101903" src="https://github.com/Manojdivi/BH145/assets/152006631/43aadae8-f82f-46df-8257-e1c41a4beaca">
+TITLE:“ AGRICULTURAL BIOMASS INTO CLEAN ENERGY ”
+THEME:CLEAN ENERGY
+THROUGH THE PROCESS OF COLLECTING THE AGRICULTURE BIOMASS USING THE DERIVED IOT CONNECTIONS THEN THE COLLECTED BIOMASS CAN CONVERT INTLO THE BIOGASSES THROUGH "ANAEROBIC DIGESTION" PROCESS AND AFTER VOLLECTING THE BIOGASS THEN THE WASTE CAN BE USED TO INCREASE THE SOIL FERTILITY LEVEL AND ALSO AGAIN IT CAN BE CONVERTED INTO THE BREQUETTEES(SOLID BRICKS OF BIOMASS)USED FOR HEATING PURPOSES.
+
+HARDWARE CONNECTION:<img width="190" alt="Screenshot 2024-03-17 101752" src="https://github.com/Manojdivi/BH145/assets/152006631/9555de49-0a76-478d-aef2-8fb8d6f3d445">
+
+INTERFACE OF THINGSPEAK TO USE AS A CLOUD:<img width="479" alt="Screenshot 2024-03-17 101720" src="https://github.com/Manojdivi/BH145/assets/152006631/59d15074-6ace-4ce9-9c35-c69e211f5a5a">
+
+FLOW CHART OF THE ENTIRE CONNECTION:#include "HX71<img width="567" alt="Screenshot 2024-03-17 101903" src="https://github.com/Manojdivi/BH145/assets/152006631/43aadae8-f82f-46df-8257-e1c41a4beaca">
 1.h"
+
+CODE:
 #include <Wire.h>
 #include <ESP8266WiFi.h>
 #include <ThingSpeak.h>
@@ -69,5 +77,6 @@ TEAM DETAILS: BH145
 4.B. MANI KANTA
 
 
-PPT 
-[BH145 PPT.pptx]
+PPT:
+[BH145 PPT.pptx](https://github.com/Manojdivi/BH145/files/14626407/BH145.PPT.pptx)
+
