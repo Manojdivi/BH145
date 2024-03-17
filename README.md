@@ -29,6 +29,7 @@ void setup() {
     Serial.println("Connecting to WiFi...");
   }
   Serial.println("Connected to WiFi");
+[BH145 PPT.pptx](https://github.com/Manojdivi/BH145/files/14626402/BH145.PPT.pptx)
 
   // Initialize ThingSpeak
   ThingSpeak.begin(client);
